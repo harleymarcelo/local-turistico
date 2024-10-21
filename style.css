@@ -1,0 +1,62 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 150px;
+  justify-content: baseline;
+  background-color: #f5f5f5;
+  color: #333333;
+ 
+}
+
+
+
+h2 {
+
+color: #0C51A7;
+margin:16px 20px ;
+line-height: 20px;
+}
+
+
+  img {
+   
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+
+p{
+
+  margin: 16px;
+  padding: auto;
+  
+
+}
+
+
+h1 #Descubra {
+  color: #0C51A7;
+}
+
+
+
+  .classe1, .classe2, .classe3, .classe4, .classe5, .classe6 {
+    margin-bottom: 20px;
+    padding: 50px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+#titulo {
+
+text-align: center;
+color: #0C51A7;
+padding: 50px;
+
+}
+
+
+
